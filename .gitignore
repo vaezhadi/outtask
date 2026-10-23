@@ -1,0 +1,13 @@
+# deps
+node_modules/
+tests/node_modules/
+
+# release artifacts
+*.zip
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

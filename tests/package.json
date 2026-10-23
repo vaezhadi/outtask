@@ -1,0 +1,13 @@
+{
+  "name": "outtask-tests",
+  "version": "2.8.0",
+  "private": true,
+  "description": "Outtask test suites (node + jsdom). No live network calls.",
+  "scripts": {
+    "test": "node run-all.js"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "jsdom": "^29.1.1"
+  }
+}
